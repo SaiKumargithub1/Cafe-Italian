@@ -1,0 +1,1 @@
+export { SpecialsSection } from "./SpecialsSection";
